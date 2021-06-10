@@ -17,7 +17,7 @@ Analysing last 3 months of data to get the better idea how revenue is getting af
 
 ### Work Flow Diagram
 
-![image](https://github.com/SuryaSD/Business_Insight_Analysis/blob/main/workflow.PNG)
+![image](https://github.com/SuryaSD/Business_Insight_Analysis/blob/main/workflow_.PNG)
 
 
 ### Insight the Data
